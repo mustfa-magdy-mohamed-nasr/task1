@@ -9,4 +9,6 @@ abstract class AppStyle {
   static TextStyle colorBlakBold18 =
       const TextStyle(fontWeight: FontWeight.bold, fontSize: 18);
   static TextStyle colorBlakBold = const TextStyle(fontWeight: FontWeight.bold);
+static TextStyle colorWhite =
+      TextStyle(color: AppColors.colorWhite, );
 }
